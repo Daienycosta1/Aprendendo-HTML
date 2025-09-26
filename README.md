@@ -1,6 +1,3 @@
-# Aprendendo-HTML
-CONTEUDO SOBRE MINHA AULA DE HTML
-
 <!DOCTYPE html> <html>
 
 <head> <meta charset ="utf-8">
