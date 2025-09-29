@@ -44,11 +44,9 @@
 </ul>
 
 <P><B> Lista de definição </B></P>
-
-
+<p>serve para apresentar termos e suas descrições como um mini dicionário ou glossário </p>
 
 <dl>
-	<p>serve para apresentar termos e suas descrições como um mini dicionário ou glossário </p>
 
 	<dt><b><em> html </em></b></dt>
 		<dd>Linguagem de marcação usada para estruturar páginas web.</dd>
