@@ -46,17 +46,16 @@
 <P><B> Lista de definição </B></P>
 <p>serve para apresentar termos e suas descrições como um mini dicionário ou glossário </p>
 
+
 <dl>
+  <dt><b><em>HTML</em></b></dt>
+  <dd>Linguagem de marcação usada para estruturar páginas web.</dd>
 
-	<dt><b><em> html </em></b></dt>
-		<dd>Linguagem de marcação usada para estruturar páginas web.</dd>
-		
-	<dt><b><em> css </em></b></dt>	
-		<dd> Linguagem usada para estilizar páginas web.</dd>
-		
-	<dt><b><em> JavaScript </em></b></dt>
-		<dd> Linguagem de programação usada para adicionar interatividade. </dd>
+  <dt><b><em>CSS</em></b></dt>
+  <dd>Linguagem usada para estilizar páginas web.</dd>
 
+  <dt><b><em>JavaScript</em></b></dt>
+  <dd>Linguagem de programação usada para adicionar interatividade.</dd>
 </dl>
 
 
