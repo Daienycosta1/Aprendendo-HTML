@@ -1,19 +1,28 @@
 <!DOCTYPE html> <html>
 
-<head> <meta charset ="utf-8">
+<head> 
+	<meta charset ="utf-8">
 <title> MINHA AULA DE HTML </title>
 </head>
-
-<body>
-
-<h1> OLÁ PESSOAL, AQUI E A DAI :) </h1>
-<P><B> ESTA E MINHA PÁGINA DA WEB AQUI IREI COLOCAR TUDO QUE ESTOU APRENDENDO NO MEU CURSO</B></P>
+	<body>
+		<h1> 
+			OLÁ PESSOAL, AQUI E A DAI :) 
+		</h1>
+<P>
+	<B> 
+	ESTA E MINHA PÁGINA DA WEB AQUI IREI COLOCAR TUDO QUE ESTOU APRENDENDO NO MEU CURSO
+	</B>
+</P>
 
  
-<P> <b>O HTML,</b> chamado de HyperText é a linguagem de marcação usada para estruturar o conteúdo de uma página da web <br>
- então nesse primeiro momento ele vai aprentar algo mais simples como por exemplo, textos, títulos, listas, links, imagens... <br>
- nada muito elaborado.Mas essa base é essencial, porque é sobre ela que vou adicionar o CSS (para estilo/cores/layout)<br>
- e JavaScript (para interatividade/dinâmica).<br></p>
+<P> 
+	<b>
+	O HTML,</b> chamado de HyperText é a linguagem de marcação usada para estruturar o conteúdo de uma página da web <br>
+ 	então nesse primeiro momento ele vai aprentar algo mais simples como por exemplo, textos, títulos, listas, links, imagens... <br>
+ 	nada muito elaborado.Mas essa base é essencial, porque é sobre ela que vou adicionar o CSS (para estilo/cores/layout)<br>
+ 	e JavaScript (para interatividade/dinâmica).
+	</b>
+</p>
 
 <h3>
 	Alguns Elementos Básicos são muito importantes, como:
